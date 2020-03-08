@@ -8,6 +8,17 @@ h2{
   font-family:serif;
   color:green;
 }
+#ceai {
+  border-style: dotted;
+  border-color: green;
+}
 .denumire{
   color:red;
+}
+.product {
+  border-width: medium;
+  border-style: solid;
+}
+.coffee {
+  border-color: brown;
 }
