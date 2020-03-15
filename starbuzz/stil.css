@@ -46,8 +46,36 @@ h2{
   padding: 3px;
   padding-left: 85px;
   margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
   line-height: 1,6em;
   min-height: 80px;
-  max-width: 400px;
-
+  max-width: 500px;
+  text-align: center;
+  /* float: right; */
+}
+a {
+    text-decoration: none;
+}
+a:link {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+.song {
+  font-style: italic;
+}
+.artist {
+  font-weight: bold;
+}
+#ticket {
+  position: fixed;
+  top: 100px;
+  right: 50px;
+  width: 290px;
 }
