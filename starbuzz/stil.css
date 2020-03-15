@@ -35,3 +35,19 @@ h2{
 .coffee {
   border-color: brown;
 }
+.guarantee {
+  border-color: white;
+  border-width: 2px;
+  border-style: dashed;
+  background-color: #a7cece;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 3px;
+  padding-left: 85px;
+  margin: 10px;
+  line-height: 1,6em;
+  min-height: 80px;
+  max-width: 400px;
+
+}
